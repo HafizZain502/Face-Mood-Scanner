@@ -1,11 +1,4 @@
 # Face-Mood-Scanner
-Certainly! Here’s a detailed README and a new repository name that captures the essence of your project on emotion recognition using machine learning.
-
-### Suggested Repository Title:
-- **EmotionSense-CNN**
-
-### README.md Content:
-# EmotionSense-CNN
 
 ## Introduction
 Welcome to EmotionSense-CNN, a cutting-edge deep learning project designed to identify human emotions through facial expressions. Utilizing convolutional neural networks (CNNs), this project aims to classify faces into two emotional states: happy and sad. Our goal is to enhance human-computer interaction, contributing to fields such as psychological research, security, and personalized content delivery.
